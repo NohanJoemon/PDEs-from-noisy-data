@@ -1,7 +1,7 @@
 # GKFL0 - codes and datasets
 
 The codes and benchmarking datasets for the GKFL0 algorithm mentioned in our paper:<br>
-<a href link="https://www.sciencedirect.com/science/article/pii/S0098135423003502">Discovering governing partial differential equations from noisy data<a>.
+[Discovering governing partial differential equations from noisy data](https://www.sciencedirect.com/science/article/pii/S0098135423003502)
 
 ![image](https://github.com/NohanJoemon/PDEs-from-noisy-data/assets/62956111/965d7887-ede1-4fc1-821d-d08f68e3f692)
 
